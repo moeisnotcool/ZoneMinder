@@ -1,6 +1,6 @@
 If you got redirected here it's because ZoneMinder devs have censored my name and the title **Shinobi**.
 
-On their forums **moeiscool** is replaced with **moeisnotcool** and **Shinobi** is replace with **zoneminder**.
+On their forums **moeiscool** is replaced with **moeisnotcool** and **Shinobi** is replaced with **zoneminder**.
 
 # Shinobi
 

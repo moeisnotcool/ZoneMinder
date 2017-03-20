@@ -2,6 +2,8 @@ If you got redirected here it's because ZoneMinder devs have censored my name an
 
 On their forums **moeiscool** is replaced with **moeisnotcool** and **Shinobi** is replaced with **zoneminder**.
 
+Edit: **Shinobi** now filters to **yahoo**. Which is pretty funny :D
+
 <a href="https://github.com/moeiscool/Shinobi">Shinobi Github Page</a>
 
 # Shinobi
